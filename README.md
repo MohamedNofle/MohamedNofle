@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Software+Engineer+Specializing+in+Cybersecurity;Started+Coding+at+Age+14;Building+Programming+Tools+and+Creative+Solutions" alt="Typing SVG"/>
 </h3>
 
+<p>I am Mohamed, a software engineer and cybersecurity professional. I started learning programming and computer science at the age of 13, and I am passionate about developing programming tools and cybersecurity tools.</p>
+
 <br/>
 
 <p align="center">
